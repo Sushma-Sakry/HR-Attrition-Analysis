@@ -714,7 +714,6 @@ ORDER BY MonthlyIncome DESC
 FROM employees;
 
 
-
 -- ==========================================================
 -- DUPLICATE MONTHLY INCOME VALUES
 -- ==========================================================
